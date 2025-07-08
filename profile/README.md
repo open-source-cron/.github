@@ -1,6 +1,4 @@
-# The Open Source Cron Organization
-
-## Mission: To Standardize and Modernize Cron Pattern Syntax
+## Our Mission: To Standardize and Modernize Cron Pattern Syntax
 
 The `cron` utility is a cornerstone of task scheduling, but its syntax is fragmented across different systems. This GitHub-organization aims to solve that problem by defining a standard for cron expressions.
 
