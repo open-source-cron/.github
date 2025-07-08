@@ -14,7 +14,7 @@ Our goal is to create a reliable specification and a set of high-quality tools t
 
 ### How to Contribute
 
-  * **Review** draft specifications, current focus is on [Finalizing OCPS 1.0](https://github.com/open-source-cron/ocps/pull/6), drafts of future increments are available at [opcs/increments/*](https://github.com/open-source-cron/ocps/tree/main/increments).
+  * **Review** draft specifications and provide feedback. Current focus is on [Finalizing OCPS 1.0](https://github.com/open-source-cron/ocps/pull/6) but drafts for future increments are available in the [opcs/increments](https://github.com/open-source-cron/ocps/tree/main/increments)-directory.
 
   * **Raise** issues with ideas or ambiguities.
 
