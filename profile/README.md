@@ -14,7 +14,7 @@ Our goal is to create a reliable specification and a set of high-quality tools t
 
 ### How to Contribute
 
-Contribution guidelines for the specification is available in the [OCPS readme](https://github.com/open-source-cron/ocps).
+Contribution guidelines for the specification is available in the [OCPS readme](https://github.com/open-source-cron/ocps?tab=readme-ov-file#7-contributing).
 
 General guidelines for the organization:
 
