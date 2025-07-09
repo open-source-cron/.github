@@ -22,4 +22,4 @@ Our goal is to create a reliable specification and a set of high-quality tools t
 
   * **Adopt** the standard in your own projects.
 
-  * **Join us:** If you are the author of a cron library, request an invitation by opening an issue in the [OCPS repository](https://www.google.com/search?q=https://github.com/open-source-cron/ocps/issues/new). We encourage you to join us to collaborate more closely.
+  * **Join us:** If you are the author of a cron library, request an invitation by opening an issue in the [OCPS repository](https://github.com/open-source-cron/ocps/issues/new). We encourage you to join us to collaborate more closely.
