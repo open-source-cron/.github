@@ -6,7 +6,7 @@ The `cron` utility is a cornerstone of task scheduling, but its syntax is fragme
 
 1.  **The Open Cron Pattern Specification (OCPS):** The core of our work. OCPS is a community-driven document that codifies existing cron behavior, resolves ambiguities, and introduces modern, portable features.
 
-2.  **Implementation-Agnostic Tools:** We also host tools that help developers and users work with cron, regardless of the specific library or system they use. This could include projects like interactive pattern builders, validators, and educational resources.
+2.  **Implementation-Agnostic Tools:** We also (could) host tools that help developers and users work with cron, regardless of the specific library or system they use. This could include projects like interactive pattern builders, validators, and educational resources.
 
 Our goal is to create a reliable specification and a set of high-quality tools to foster a more interoperable and predictable cron ecosystem.
 
